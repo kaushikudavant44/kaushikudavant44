@@ -44,13 +44,12 @@
 
 ## 📊 GitHub Stats
 
-![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikudavant&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikudavant&layout=compact&theme=radical)
+![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikudavant44&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikudavant44&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kaushikudavant)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/kaushik.profile)
-[![Email](https://img.shields.io/badge/Email-kaushik@email.com-red?logo=gmail)](mailto:kaushik@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/kaushik-udavant)
+[![Email](https://img.shields.io/badge/Email-kaushikudavant44@gmail.com-red?logo=gmail)](mailto:kaushikudavant44@gmail.com)
