@@ -1,78 +1,50 @@
-# 👋 Hi, I'm Kaushik — a Solutions Architect | Java | Spring Boot | Microservices | Angular | Cloud Enthusiast ☁️
+# 👋 Hi, I'm Kaushik — Solutions Architect | Java Expert | Cloud-Native Microservices Engineer ☁️
+
+Welcome to my GitHub profile! I specialize in architecting and developing enterprise-grade software solutions using Java, Spring Boot, and cloud technologies.
+
+---
 
 ## 🙋‍♂️ About Me
 
-- 🚀 Experienced Solution Architect with 8.6+ years of proven expertise in building scalable, high-performance, and secure enterprise-grade applications.
-- 🔧 Passionate about Microservices, Event-Driven Architecture, and building cost-effective cloud-native solutions.
-- ☁️ Hands-on with AWS (EC2, Lambda, S3, RDS, IAM, API Gateway) and Azure IoT architectures.
-- 🔄 Expertise in Kafka, RabbitMQ, SQS/SNS for high-throughput data processing.
-- 🧩 Well-versed in RESTful API design, Spring Boot, Hibernate, JPA, SQL, MongoDB, Redis.
-- 👥 Strong leadership capabilities: team mentoring, code reviews, agile delivery, and cross-functional collaboration.
-- 🏗️ Architected several greenfield and brownfield applications across domains: Healthcare, E-Invoicing, HR, E-Commerce, and Agriculture IoT.
+- 🔧 8.6+ years of hands-on experience designing scalable, secure, and high-performance applications  
+- ☁️ Cloud Proficient: AWS (EC2, Lambda, S3, RDS, IAM, API Gateway), Azure IoT  
+- 🔄 Event-driven enthusiast using Kafka, RabbitMQ, and AWS SQS/SNS  
+- 🧠 Domain expertise: Healthcare, E-Invoicing, HRMS, E-Commerce, IoT  
+- 👥 Leader and mentor for agile teams, promoting best practices and continuous delivery  
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 My Backend Tech Arsenal
 
-**Languages & Frameworks**: Java, Spring Boot, JPA, Hibernate, Angular, JavaScript, HTML, JSTL, AJAX  
-**Architecture**: Microservices, Event-driven, Serverless  
-**Cloud**: AWS (EC2, Lambda, S3, RDS, IAM), Azure IoT, PCF  
-**Messaging**: Kafka, RabbitMQ, SQS/SNS  
-**Databases**: MySQL, MongoDB, DynamoDB, Redis  
-**Tools**: Git, JIRA, Bitrix24, VersionOne, STS, Eclipse, TFS, Tableau  
-**Methodologies**: Agile Scrum, DevOps, CI/CD  
-**OS**: Windows 10/11, Linux
-
----
-
-## 🧠 Certifications
-
-- 🏅 Oracle Cloud Infrastructure 2024 – Generative AI Certified Professional
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-## 📚 Education
+## 🚀 Projects Highlight
 
-- 🎓 Bachelor of Engineering (Computer Engineering), Pune University
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [E-Invoice Generator – Turkey](#) | Invoice system integrated with Magento and AWS for Turkish regulations | Spring Boot, AWS Lambda, Kafka, S3 |
+| [Plantect – Agriculture IoT](#) | IoT data integration with real-time crop health monitoring | Azure IoT, Spring Boot |
+| [Home Services Management](#) | Book/reschedule appliance technician visits with real-time backend | Spring Boot, Spring Batch, AWS |
+| [FedEx EDM System](#) | Document management using Documentum and S3 microservices | Spring Boot, AWS, Hibernate |
+| [B2B Automation Portal](#) | Enables automation and result tracking across B2B chains | Spring Boot, PCF, Hibernate |
 
 ---
 
-## 🚀 Key Projects
+## 📚 Education & Certifications
 
-### 🔹 Abbott ADC – Turkey Invoice Generation
-Technologies: Spring Boot, AWS Lambda, Kafka, Microservices  
-- Built compliant Turkey e-Invoice module with Kafka, Spring Boot, and AWS S3.
-- Integrated with Magento and led DevOps planning and deployment.
-
-### 🔹 Abbott Home Services Platform
-Technologies: Spring Boot, Spring Batch, AWS  
-- Developed REST APIs and microservices for scheduling and order management.
-- Handled production issues, mentoring, and QA/Prod deployments.
-
-### 🔹 Plantect – Agriculture IoT Application
-Technologies: Spring Boot, Azure IoT  
-- Designed real-time low-latency microservices for farm sensors.
-- Led PoCs and architecture for multi-country expansion.
-
-### 🔹 FedEx EDM
-Technologies: Spring Boot, AWS, S3, Documentum  
-- Microservices for secure document handling and cloud-based storage.
-
-### 🔹 B2B Digitalization Portal
-Technologies: Spring Boot, PCF, Hibernate  
-- Created automation test portal with UI and backend integration.
-
-### 🔹 ISG Services / CDO Office
-Technologies: Spring Boot, Azure, MongoDB, Redis, RabbitMQ  
-- Delivered HR modules for leave, attendance, payroll with microservices.
-
-### 🔹 Biocare – Healthcare Platform
-Technologies: Spring Boot, REST API, MySQL  
-- Developed APIs for appointments and secure report handling.
-
-### 🔹 Fusion Crop – E-Commerce for Agri Products
-Technologies: Java, JSP, JSTL, jQuery  
-- Built e-commerce portal for seeds and pesticide inventory.
+- 🎓 B.E. Computer Engineering, Pune University  
+- 🏅 Oracle Cloud Infrastructure 2024 – Generative AI Certified Professional  
+- 🛡️ Information Security Awareness Trained  
 
 ---
 
@@ -83,7 +55,7 @@ Technologies: Java, JSP, JSTL, jQuery
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kaushik-udavant)  
 [![Email](https://img.shields.io/badge/Email-kaushikudavant44@gmail.com-red?logo=gmail)](mailto:kaushikudavant44@gmail.com)
