@@ -2,54 +2,88 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on: Microservices & Cloud-Native Applications  
-- 🌱 Learning: Gen AI | API Gateway | Full Stack (Angular + Java)  
-- 💬 Ask me about: Java, Spring Boot, REST APIs, AWS, Docker, Kubernetes  
-- 🎯 Goal: Architect & build scalable enterprise applications  
-- 🧠 Fun Fact: I love simplifying complex systems into elegant solutions
+- 🚀 Experienced Solution Architect with 8.6+ years of proven expertise in building scalable, high-performance, and secure enterprise-grade applications.
+- 🔧 Passionate about Microservices, Event-Driven Architecture, and building cost-effective cloud-native solutions.
+- ☁️ Hands-on with AWS (EC2, Lambda, S3, RDS, IAM, API Gateway) and Azure IoT architectures.
+- 🔄 Expertise in Kafka, RabbitMQ, SQS/SNS for high-throughput data processing.
+- 🧩 Well-versed in RESTful API design, Spring Boot, Hibernate, JPA, SQL, MongoDB, Redis.
+- 👥 Strong leadership capabilities: team mentoring, code reviews, agile delivery, and cross-functional collaboration.
+- 🏗️ Architected several greenfield and brownfield applications across domains: Healthcare, E-Invoicing, HR, E-Commerce, and Agriculture IoT.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+**Languages & Frameworks**: Java, Spring Boot, JPA, Hibernate, Angular, JavaScript, HTML, JSTL, AJAX  
+**Architecture**: Microservices, Event-driven, Serverless  
+**Cloud**: AWS (EC2, Lambda, S3, RDS, IAM), Azure IoT, PCF  
+**Messaging**: Kafka, RabbitMQ, SQS/SNS  
+**Databases**: MySQL, MongoDB, DynamoDB, Redis  
+**Tools**: Git, JIRA, Bitrix24, VersionOne, STS, Eclipse, TFS, Tableau  
+**Methodologies**: Agile Scrum, DevOps, CI/CD  
+**OS**: Windows 10/11, Linux
 
 ---
 
-## 🚀 Projects
+## 🧠 Certifications
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🔗 Cost Predictor AI](https://github.com/kaushikudavant/cost-predictor) | Predicts project costs using historical data and GenAI | Spring Boot, OCI AI, MySQL |
-| [🔗 E-Invoice Generator - Turkey](https://github.com/kaushikudavant/einvoice-turkey) | Automates invoice generation from Magento to S3 | AWS, Kafka, Spring Boot |
-| [🔗 IoT Crop Health Monitor](https://github.com/kaushikudavant/plantect-iot) | Configured Azure IoT to reduce latency and improve reliability | Azure, IoT Hub, Java |
-| [🔗 BARATI Storefront](https://github.com/kaushikudavant/barati-store) | Women-led ethnic fashion store with monsoon campaign | HTML, CSS, JS, Canva |
+- 🏅 Oracle Cloud Infrastructure 2024 – Generative AI Certified Professional
 
 ---
 
-## 🎓 Certifications
+## 📚 Education
 
-- 🏅 Oracle Cloud Infrastructure 2024 – Generative AI Certified Professional  
-- 🏅 AWS Cloud Practitioner (in progress)  
-- 🏅 Information Security Awareness Training  
+- 🎓 Bachelor of Engineering (Computer Engineering), Pune University
+
+---
+
+## 🚀 Key Projects
+
+### 🔹 Abbott ADC – Turkey Invoice Generation
+Technologies: Spring Boot, AWS Lambda, Kafka, Microservices  
+- Built compliant Turkey e-Invoice module with Kafka, Spring Boot, and AWS S3.
+- Integrated with Magento and led DevOps planning and deployment.
+
+### 🔹 Abbott Home Services Platform
+Technologies: Spring Boot, Spring Batch, AWS  
+- Developed REST APIs and microservices for scheduling and order management.
+- Handled production issues, mentoring, and QA/Prod deployments.
+
+### 🔹 Plantect – Agriculture IoT Application
+Technologies: Spring Boot, Azure IoT  
+- Designed real-time low-latency microservices for farm sensors.
+- Led PoCs and architecture for multi-country expansion.
+
+### 🔹 FedEx EDM
+Technologies: Spring Boot, AWS, S3, Documentum  
+- Microservices for secure document handling and cloud-based storage.
+
+### 🔹 B2B Digitalization Portal
+Technologies: Spring Boot, PCF, Hibernate  
+- Created automation test portal with UI and backend integration.
+
+### 🔹 ISG Services / CDO Office
+Technologies: Spring Boot, Azure, MongoDB, Redis, RabbitMQ  
+- Delivered HR modules for leave, attendance, payroll with microservices.
+
+### 🔹 Biocare – Healthcare Platform
+Technologies: Spring Boot, REST API, MySQL  
+- Developed APIs for appointments and secure report handling.
+
+### 🔹 Fusion Crop – E-Commerce for Agri Products
+Technologies: Java, JSP, JSTL, jQuery  
+- Built e-commerce portal for seeds and pesticide inventory.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikudavant44&show_icons=true&theme=radical)
+![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikudavant44&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikudavant44&layout=compact&theme=radical)
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/kaushik-udavant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kaushik-udavant)  
 [![Email](https://img.shields.io/badge/Email-kaushikudavant44@gmail.com-red?logo=gmail)](mailto:kaushikudavant44@gmail.com)
