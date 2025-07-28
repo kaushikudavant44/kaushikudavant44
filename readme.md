@@ -69,6 +69,19 @@ Welcome to my GitHub profile! I specialize in architecting and developing enterp
 
 ---
 
+---
+
+## 📌 Top Repositories
+
+| Repository                                                                                | Description                                                         | Tech Stack                                       |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------ |
+| [🔗 flypayportal](https://github.com/vinup07/flypayportal)                                | Payment gateway portal showcasing backend microservice architecture | Spring Boot, Microservices, REST API             |
+| [🔗 Stitchx\_Back\_End](https://github.com/kaushikudavant44/Stitchx_Back_End)             | Backend APIs for managing online custom tailoring orders            | Spring Boot, MySQL, JWT                          |
+| [🔗 talliapp](https://github.com/kaushikudavant44/talliapp)                               | Liquor e-commerce app backend for browsing & ordering alcohol       | Spring Boot, MongoDB, Swagger                    |
+| [🔗 TopiaForiegnExhangeRate](https://github.com/kaushikudavant44/TopiaForiegnExhangeRate) | Currency exchange rate fetcher built for interviews                 | Spring Boot, REST API, European Central Bank API |
+
+
+
 ## 📊 GitHub Stats
 
 ![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikudavant44&show_icons=true&theme=radical)  
