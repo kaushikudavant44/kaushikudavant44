@@ -20,11 +20,11 @@ Welcome to my GitHub profile! I specialize in architecting and developing enterp
 - 📈 Promoted rapidly across roles due to consistent performance  
 - 🛡️ Information Security Awareness Trained  
 - 💡 Recognized for simplifying legacy systems with modern cloud-native architectures
-
+ 
 ## 🏅 Certifications
 
-**🎓 Oracle Cloud Infrastructure 2025 Generative AI Professional**  
-[![Oracle Badge](https://images.credly.com/size/340x340/images/5b1b8b3d-796a-41a9-9a09-839d3e1fc8ca/image.png)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D80A2E46D2AD277F6D18BC8F7FA330BAC3EB89FAA41DF7386CDDCF7989A180F7)  
+- 🎓 [Oracle Cloud Infrastructure 2025 – Generative AI Certified Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D80A2E46D2AD277F6D18BC8F7FA330BAC3EB89FAA41DF7386CDDCF7989A180F7)
+
 
 ---
 
