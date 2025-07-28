@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kaushik — a Senior Software Engineer | Java | Spring Boot | Microservices | Angular | Cloud Enthusiast ☁️
+# 👋 Hi, I'm Kaushik — a Solutions Architect | Java | Spring Boot | Microservices | Angular | Cloud Enthusiast ☁️
 
 ## 🙋‍♂️ About Me
 
