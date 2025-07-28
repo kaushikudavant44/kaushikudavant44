@@ -31,12 +31,13 @@ Welcome to my GitHub profile! I specialize in architecting and developing enterp
 ## 💪🏻 Professional Expertise working with Tools and Technologies:
 
 **Languages & Frameworks:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
-![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=flat&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A.svg?style=flat&logo=react&logoColor=61DAFB)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00.svg?style=flat&logo=microgen&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=flat&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=json&logoColor=white)
 
 **Version Control & DevOps:**  
