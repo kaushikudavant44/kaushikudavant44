@@ -72,11 +72,8 @@ Welcome to my GitHub profile! I specialize in architecting and developing enterp
 
 ## 📊 GitHub Stats
 
-🏆 A+ baybeeeee ✌🏻  
-Here's how we're doing — full throttle Java mode! 🧠🔥
-
-![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikudavant44&show_icons=true&theme=solarized-light&hide_title=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikudavant44&layout=compact&theme=solarized-light&langs_count=4&hide=JavaScript,CoffeeScript,PHP,Lua)
+![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikudavant44&show_icons=true&theme=default&hide_title=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikudavant44&layout=compact&theme=default&langs_count=4&hide=JavaScript,CoffeeScript,PHP,Lua)
 
 ---
 
