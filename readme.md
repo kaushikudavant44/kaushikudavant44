@@ -76,7 +76,7 @@ Welcome to my GitHub profile! I specialize in architecting and developing enterp
 Here's how we're doing — full throttle Java mode! 🧠🔥
 
 ![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikudavant44&show_icons=true&theme=radical&hide_title=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikudavant44&layout=compact&theme=radical&langs_count=6&hide=html,css,shell,dockerfile,javascript)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikudavant44&layout=compact&theme=radical&langs_count=6&hide=shell,dockerfile](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikudavant44&layout=compact&theme=solarized-light&langs_count=4&hide=JavaScript,CoffeeScript,PHP,Lua))
 
 ---
 
