@@ -79,7 +79,7 @@ Technologies: Java, JSP, JSTL, jQuery
 ## 📊 GitHub Stats
 
 ![Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikudavant44&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikudavant44&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikudavant44&layout=compact&theme=radical&langs_count=6&hide=html,css,shell,dockerfile)
 
 ---
 
